@@ -1,0 +1,3 @@
+Underlying,Expiry,OptionType,Position,Strike,Quantity,EntryPrice,Exchange,LotSize
+NIFTY,261013,CE,BUY,25000,1,250,NSE,65
+SENSEX,261009,PE,SELL,82000,1,310,BSE,20

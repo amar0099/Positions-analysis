@@ -1,0 +1,5 @@
+{"level":"DEBUG","location":"[get_call:159] fyersModel","message":{"Status Code":200,"API":"/options-chain-v3"},"timestamp":"2026-11-25 23:10:26,345+0530","service":"FyersAPIRequest"}
+{"level":"DEBUG","location":"[get_call:159] fyersModel","message":{"Status Code":200,"API":"/options-chain-v3"},"timestamp":"2026-11-25 23:10:26,795+0530","service":"FyersAPIRequest"}
+{"level":"DEBUG","location":"[get_call:159] fyersModel","message":{"Status Code":200,"API":"/quotes"},"timestamp":"2026-11-25 23:10:27,297+0530","service":"FyersAPIRequest"}
+{"level":"DEBUG","location":"[get_call:159] fyersModel","message":{"Status Code":200,"API":"/quotes"},"timestamp":"2026-11-25 23:10:27,326+0530","service":"FyersAPIRequest"}
+{"level":"DEBUG","location":"[get_call:159] fyersModel","message":{"Status Code":200,"API":"/quotes"},"timestamp":"2026-11-25 23:10:27,353+0530","service":"FyersAPIRequest"}
